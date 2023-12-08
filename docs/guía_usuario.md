@@ -19,7 +19,7 @@ Clona este repositorio:
 
 bash
 Copy code
-git clone https://github.com/tuusuario/CryptoTracker.git
+git clone https://github.com/brigyto/CryptoTracker.git
 cd CryptoTracker
 Instala las dependencias:
 
