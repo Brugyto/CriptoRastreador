@@ -1,0 +1,4 @@
+# Asegúrate de tener versiones específicas o rangos según sea necesario
+pytest==7.2.5
+black==20.8b1
+flake8==3.9.2
