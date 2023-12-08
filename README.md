@@ -9,7 +9,7 @@ Para comenzar con CryptoTracker, sigue estos pasos:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/CryptoTracker.git
+   git clone https://github.com/brugyto/CryptoTracker.git
    cd CryptoTracker
 Instala las dependencias:
 
