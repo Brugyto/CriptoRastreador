@@ -1,0 +1,27 @@
+
+CryptoTracker/
+|-- .gitignore
+|-- README.md
+|-- docs/
+|   |-- design_documentation.md
+|   |-- user_guide.md
+|-- src/
+|   |-- crypto_tracker/
+|       |-- __init__.py
+|       |-- main.py
+|       |-- modules/
+|           |-- __init__.py
+|           |-- coin.py
+|           |-- portfolio.py
+|           |-- utils.py
+|-- tests/
+|   |-- test_main.py
+|   |-- test_modules/
+|       |-- test_coin.py
+|       |-- test_portfolio.py
+|-- requirements.txt
+|-- LICENSE
+|-- .github/
+|   |-- workflows/
+|       |-- ci.yml
+
