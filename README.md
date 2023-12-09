@@ -11,7 +11,8 @@ Para comenzar con CryptoTracker, sigue estos pasos:
    ```bash
    git clone https://github.com/brugyto/CryptoTracker.git
    cd CryptoTracker
-Instala las dependencias:
+
+# Instala las dependencias:
 
 bash
 Copy code
@@ -24,7 +25,8 @@ Copy code
 python src/crypto_tracker/main.py
 La aplicación imprimirá el valor total de la cartera, que puedes personalizar según tus necesidades específicas.
 
-Estructura del Proyecto
+# Estructura del Proyecto
+
 docs/: Contiene documentación adicional sobre el diseño y la guía de usuario.
 src/: Contiene el código fuente de la aplicación.
 crypto_tracker/: Paquete principal de la aplicación.
@@ -35,5 +37,5 @@ tests/: Contiene archivos de prueba para el código.
 Contribuciones
 Si deseas contribuir a CryptoTracker, ¡te damos la bienvenida! Consulta las directrices de contribución para comenzar.
 
-Licencia
+# Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
