@@ -19,7 +19,7 @@ Clona este repositorio:
 
 bash
 Copy code
-git clone https://github.com/Brugyto/CriptoRastreadoer.git
+git clone https://github.com/Brugyto/CryptoRastracker.git
 cd CryptoTracker
 Instala las dependencias:
 
